@@ -1,0 +1,94 @@
+body { 
+  margin: 0;
+  padding: 0;
+  background: rgb(206, 202, 202);
+  height: 100vh;
+  position: relative;
+}
+
+.circle {
+  position: absolute;
+  border-radius: 50%; 
+  top: 50%;
+  left: 50%;
+}
+
+#circle1 {
+  width: 40rem; height: 40rem;
+  background: white;
+  border: 2px solid black;
+  margin-top: -20rem;
+  margin-left: -20rem;
+}
+#circle2 {
+  width: 36rem; height: 36rem;
+  background: white;
+  border: 2px solid black;
+  margin-top: -18rem;
+  margin-left: -18rem;
+}
+#circle3 {
+  width: 32rem; height: 32rem;
+  background: black;
+  border: 2px solid white;
+  margin-top: -16rem;
+  margin-left: -16rem;
+}
+#circle4 {
+  width: 28rem; height: 28rem;
+  background: black;
+  border: 4px solid white;
+  margin-top: -14rem;
+  margin-left: -14rem;
+}
+#circle5 {
+  width: 24rem; height: 24rem;
+  background: #00bfff;
+  margin-top: -12rem;
+  margin-left: -12rem;
+}
+#circle6 {
+  width: 20rem; height: 20rem;
+  background: #00bfff;
+  border: 2px solid black;
+  margin-top: -10rem;
+  margin-left: -10rem;
+}
+#circle7 {
+  width: 16rem; height: 16rem;
+  background: red;
+  border: 2px solid black;
+  margin-top: -8rem;
+  margin-left: -8rem;
+}
+#circle8 {
+  width: 12rem; height: 12rem;
+  background: red;
+  border: 2px solid black;
+  margin-top: -6rem;
+  margin-left: -6rem;
+}
+#circle9 {
+  width: 8rem; height: 8rem;
+  background: yellow;
+  border: 2px solid black;
+  margin-top: -4rem;
+  margin-left: -4rem;
+}
+#circle10 {
+  width: 4rem; height: 4rem;
+  background: yellow;
+  border: 2px solid black;
+  margin-top: -2rem;
+  margin-left: -2rem;
+}
+#circle11 {
+  width: 2rem; height: 2rem;
+  background: yellow;
+  border: 2px solid black;
+  margin-top: -1rem;
+  margin-left: -1rem;
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 2rem;
+}
